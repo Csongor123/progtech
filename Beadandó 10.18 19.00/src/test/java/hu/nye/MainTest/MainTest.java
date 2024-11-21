@@ -1,2 +1,0 @@
-package hu.nye.MainTest;
-
